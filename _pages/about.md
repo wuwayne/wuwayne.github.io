@@ -3,20 +3,19 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm Johnny and I live in the Shire. Thanks for visiting my site.
+Hi, I'm Wayne  and I live in Hangzhou China. Welcome to site.
 
-I program and write about software development when I have the time. More information can be found through <a href="https://www.linkedin.com/" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
+I program and write about software development when I have the time.
 
 ----
 
 ## The Website
-This site was made on an [Apple MBP](https://www.apple.com/) powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
+This site was made on a  powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://wuwayne.github.io).I'd love to hear your feedback on this site and my work.
 
 ----
 
-## Etcetera
+## Contact
 
-- [Instagram](https://www.instagram.com/) for 📸
-- [Facebook](https://www.facebook.com/) for 🕺
+- [E-mail] wulove5@gmail.com
+
 

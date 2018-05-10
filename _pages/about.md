@@ -3,19 +3,19 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm Wayne  and I live in Hangzhou China. Welcome to site.
 
-I program and write about software development when I have the time.
+91年生人，好真理，喜欢睡觉。家中有房又有田，生活乐无边。常寻思浩瀚宇宙，向往太空纪元。
 
 ----
 
 ## The Website
-This site was made on a  powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://wuwayne.github.io).I'd love to hear your feedback on this site and my work.
+
+博客用来帮助记忆和思考，不定期更新。文中多有网上资料摘录，若有侵权请联系我删除。
 
 ----
 
-## Contact
+## Contact Me
 
-- [E-mail] wulove5@gmail.com
-
+- E-mail: wulove5@gmail.com
+- QQ: 467910086
 

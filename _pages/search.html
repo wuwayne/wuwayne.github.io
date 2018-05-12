@@ -4,12 +4,6 @@ title: Search
 permalink: /search/
 ---
 
-<script async src="{{ site.baseurl }}/js/jquery.min.js"></script>
-<script async src="{{ site.baseurl }}/js/search.js"></script>
-<script>
-    var baseurl = "{{ site.baseurl }}";
-</script>
-
 <form class="search" action="{{ site.baseurl }}/search">
 <input type="search" id="search" name="q" placeholder="Search here..." required>
 <button type="submit">Search</button>
@@ -42,4 +36,10 @@ permalink: /search/
         </div>
     </div>
 </div>
+
+<script  type="text/javascript" src="{{ site.baseurl }}/js/jquery.min.js"></script>
+<script  type="text/javascript"  src="{{ site.baseurl }}/js/search.js"></script>
+<script>
+    var baseurl = "{{ site.baseurl }}";
+</script>
 

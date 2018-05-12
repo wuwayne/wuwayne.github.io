@@ -5,6 +5,11 @@
         <main class="u-container">
         {{ content }}
         </main>
-	<script type="text/javascript" opacity='0.5' count="100" src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js"></script>
+<script>
+if (screen.width  <= 480) 
+	{document.write('<script type="text/javascript" opacity="0.2" count="25" src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js">\<\/script>')} 
+		else 
+			{document.write('<script type="text/javascript" opacity="0.5" count="100" src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js">\<\/script>')}
+</script>
     </body>
 </html>

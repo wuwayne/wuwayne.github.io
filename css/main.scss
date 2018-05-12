@@ -28,3 +28,26 @@
 @import
     'vendor/highlight';
 
+
+#label_box {
+    line-height: 2em;
+}
+
+#label_box li {
+    background-image: none;
+    list-style:none;
+    list-style-image:none;
+    display: inline-block;
+}
+
+#label_box a {
+	padding: 3px 2px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+#label_box a span {
+	vertical-align: super;
+	font-size: .8em;
+}
+

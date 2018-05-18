@@ -5,7 +5,7 @@ title: "Python OOP总结一"
 
 date:   2012-03-12 09:41:49 +0800
 
-categories: Python
+categories: python
 
 tags: python
 ---

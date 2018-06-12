@@ -1,9 +1,8 @@
 # wuwayne.github.io
 
-
 This is my tiny blog site : <https://wuwayne.github.io/>
 
-Just enjoy !
+Just enjoying !
 
 # Contact Me
 

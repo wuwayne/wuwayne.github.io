@@ -8,7 +8,7 @@ date:   2011-5-01 15:11:55 +0800
 
 categories:  python
 
-tags:   python
+tags:   python Zen 禅
 
 ---
 
@@ -37,9 +37,9 @@ tags:   python
 	If the implementation is easy to explain, it may be a good idea.
 	Namespaces are one honking great idea -- let's do more of those!
 
-	Beautiful is better than ugly.
-
 ### 翻译
+
+Beautiful is better than ugly.
 
 优美胜于丑陋（Python 以编写优美的代码为目标）
 
